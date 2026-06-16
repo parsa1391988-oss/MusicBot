@@ -4,7 +4,7 @@ from datetime import timedelta
 import re
 import os
 
-TOKEN = os.getenv("TOKEN")
+TOKEN = "8686888169:AAGGcey6MowZ5HVKQ7pdv0rVX9M0njJsq_s"
 
 # 🧠 دیتابیس ساده داخل حافظه
 warns = {}
